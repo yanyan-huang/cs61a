@@ -5,14 +5,14 @@ test = {
     {
       'cases': [
         {
-          'answer': '5719695e08bab301e2a8cef08cc2daad',
+          'answer': 'The lowest num_rolls',
           'choices': [
             'The lowest num_rolls',
             'The highest num_rolls',
             'A random num_rolls'
           ],
           'hidden': False,
-          'locked': True,
+          'locked': False,
           'multiline': False,
           'question': r"""
           If multiple num_rolls are tied for the highest scoring
